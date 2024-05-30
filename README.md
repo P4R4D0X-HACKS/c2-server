@@ -111,4 +111,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
-**Disclaimer:** This tool is intended for educational purposes only. Use it at your own risk and ensure you have permission before using it on any target system. The author is not responsible for any misuse or damage caused by this tool.
+**Disclaimer:** This tool is intended for educational purposes only. Use it at your own risk and ensure you have permission before using it on any target system. I am not responsible for any misuse or damage caused by this tool.
